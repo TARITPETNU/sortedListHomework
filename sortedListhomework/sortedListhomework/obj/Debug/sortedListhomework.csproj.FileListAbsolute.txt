@@ -1,0 +1,15 @@
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\bin\Debug\sortedListhomework.exe.config
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\bin\Debug\sortedListhomework.exe
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\bin\Debug\sortedListhomework.pdb
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.csprojAssemblyReference.cache
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\MainWindow.g.cs
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\App.g.cs
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework_MarkupCompile.cache
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework_MarkupCompile.lref
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\MainWindow.baml
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.g.resources
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.Properties.Resources.resources
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.csproj.GenerateResource.cache
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.exe
+C:\Users\acer\Documents\GitHub\sortedListHomework\sortedListhomework\sortedListhomework\obj\Debug\sortedListhomework.pdb
